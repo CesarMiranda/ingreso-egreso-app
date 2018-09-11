@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+
+.form-control {
+    height: calc(2.25rem + 8px) !important;
+}
+
+.cursor {
+    cursor: pointer;
+}
